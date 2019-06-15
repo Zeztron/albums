@@ -2,6 +2,7 @@ import React from 'react';
 import { View } from 'react-native';
 
 const CardSection = ({ children }) => {
+    
     const { containerStyle } = styles;
 
     return (
